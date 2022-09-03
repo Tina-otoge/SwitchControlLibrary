@@ -56,11 +56,11 @@ class SwitchControlLibrary_
 {
   private:
 	USB_JoystickReport_Input_t _joystickInputData;
-	void SendReport();
 
   public:
 	SwitchControlLibrary_();
 
+	void SendReport();
 	void PressButtonY();
 	void ReleaseButtonY();
 	void PressButtonB();
