@@ -1,3 +1,7 @@
+Fork of [celclow/SwitchControlLibrary](https://github.com/celclow/SwitchControlLibrary),
+due to bugs in more recent version of the library, but missing useful changes,
+I decided to fork it to backport the welcomed changes to v1.0.0.
+
 # Switch Control Library
 
 ## 概要
